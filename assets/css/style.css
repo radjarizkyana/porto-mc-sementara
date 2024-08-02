@@ -1461,7 +1461,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #c87373;
+  background: #000000;
 }
 
 footer .copyright {
@@ -1491,13 +1491,14 @@ footer .credits a {
   border-radius: 50%;
   line-height: 1.7;
   margin: 0 25px 0 0;
-  box-shadow: 0 0 0 3px #fa1d1d;
+  color: #e7dddd;
+  box-shadow: 0 0 0 3px #e7dddd;
   transition: all 500ms ease;
 }
 
 .footer .ico-circle:hover {
   background-color: #fa1d1d;
-  color: #fff;
-  box-shadow: 0 0 0 3px #cde1f8;
+  color: #ffffff;
+  box-shadow: 0 0 0 3px #fa1d1d;
   transition: all 500ms ease;
 }
